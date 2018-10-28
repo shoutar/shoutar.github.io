@@ -1,17 +1,17 @@
 // Place all the styles related to the home controller here.
 // They will automatically be included in application.css.
 // You can use Sass (SCSS) here: http://sass-lang.com/
-h1{
+#headername {
 color: white;
 font-size: 50px;
 }
-header{
+header {
 background: url(images/shotaro.jpg);
 background-size: cover;
 padding: 100px 100px;
 margin: 0px;
 }
-h2{
+h2 {
 text-decoration: underline;
 text-align: center;
 }
